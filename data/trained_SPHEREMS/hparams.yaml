@@ -1,0 +1,13 @@
+GINE_layer_count: 6
+bottleneck: 1
+covariates_input_dim: 6
+dropout: 0.1
+edge_input_dim: 5
+eig_depth: 2
+eigen_dim: 32
+hidden_dim: 512
+loss_dim: 144
+node_input_dim: 17
+num_eigs: 8
+prob_cutoff: 0.001
+use_norm: null
